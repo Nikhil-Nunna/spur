@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.6.1](https://github.com/ROCm/spur/compare/v0.6.0...v0.6.1) (2026-07-27)
+
+
+### Bug Fixes
+
+* **spur-core:** default JobSpec.pty so pre-0.6 Raft logs replay ([#509](https://github.com/ROCm/spur/issues/509)) ([d754118](https://github.com/ROCm/spur/commit/d754118b23c68b8fff876f29dff442f3b12a65be))
+
 ## [0.6.0](https://github.com/ROCm/spur/compare/v0.5.1...v0.6.0) (2026-07-27)
 
 
